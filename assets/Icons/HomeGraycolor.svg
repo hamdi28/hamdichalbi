@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.635" height="28.543" viewBox="0 0 28.635 28.543">
+  <g id="Group_7" data-name="Group 7" opacity="0.9">
+    <rect id="Rectangle" width="28.635" height="28.543" fill="none"/>
+    <g id="_001-home-icon-silhouette" data-name="001-home-icon-silhouette" transform="translate(0 0.003)">
+      <path id="Path" d="M28.12,11.817,23.785,7.561V2.645a1.64,1.64,0,0,0-3.279,0v1.7L17.279,1.173a4.37,4.37,0,0,0-5.962,0L.48,11.817a1.59,1.59,0,0,0,0,2.276,1.661,1.661,0,0,0,2.319,0L13.636,3.452a.981.981,0,0,1,1.326,0L25.8,14.094a1.663,1.663,0,0,0,2.319,0A1.589,1.589,0,0,0,28.12,11.817Z" transform="translate(0 0)" fill="#b8bac3"/>
+      <path id="Path-2" data-name="Path" d="M10.907.232a.815.815,0,0,0-1.139,0L.236,9.589a.785.785,0,0,0-.236.56v6.825a2.927,2.927,0,0,0,2.954,2.9h4.72V12.7H13v7.177h4.72a2.927,2.927,0,0,0,2.953-2.9V10.149a.782.782,0,0,0-.236-.56Z" transform="translate(3.962 6.275)" fill="#b8bac3"/>
+    </g>
+  </g>
+</svg>
